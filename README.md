@@ -17,7 +17,7 @@ Many online typing sites collect usage data. TypeQuest runs all on your computer
 - [X] Add this ROADMAP with checkboxes — Connor
 - [X] Find one similar typing project on GitHub and save the link — Connor
 - [ ] Fork/clone that project into the org as `typequest-reference` — Connor
-- [ ] Add a very small Python file (`app.py`) that runs — Connor
+- [X] Add a very small Python file (`app.py`) that runs — Connor
 - [X] Write 3 lines in README on how to run it — Connor
 
 ## Sprint 2 (next two weeks)
