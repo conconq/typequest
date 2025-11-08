@@ -1,6 +1,6 @@
 # TypeQuest — A Safe and Private Typing Game
 
-TypeQuest is an offline**, privacy-first fun typing game that encourages people to build upon their speed and accuracy without monitoring, collecting, or transfering any of their personal data.
+TypeQuest is an offline, privacy-first fun typing game that encourages people to build upon their speed and accuracy without monitoring, collecting, or transfering any of their personal data.
 
 ## Why TypeQuest?
 Many online typing sites collect usage data. TypeQuest runs all on your computer with no telemetry and all data is stored on your computer.
