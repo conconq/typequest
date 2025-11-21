@@ -28,6 +28,12 @@ while time.time() - start_time < time_limit:
         correct += 1
     total += 1
 
-print("\nTime is up!")
+# ----- RESULTS -----
+wpm = correct
+accuracy = (correct / total) * 100 if total > 0 else 0
+
+print("\n----- RESULTS -----")
 print(f"Words attempted: {total}")
 print(f"Correct words: {correct}")
+print(f"Words Per Minute (WPM): {wpm}")
+print(f"Accuracy: {accuracy:.2f}%")
